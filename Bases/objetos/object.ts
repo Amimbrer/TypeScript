@@ -6,8 +6,6 @@
         powers: ['Super Velocidad', 'Viajar en el tiempo']
     }
 
-
-
-    console.log(flash);
+    // Copiar la firma de un objeto ya creado
 
 })()
