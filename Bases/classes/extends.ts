@@ -16,12 +16,13 @@
     class Deportivo extends Coche {
         // Si no se crea ningun constructor se llama al del padre automáticamente
         constructor(
-            name: string,
+            name2: string,
             modelo: string,
-            public descapotable: boolean
+            public descapotable: boolean,
+            name3?: string
         ) {
             // Al crear un constructor propio ya habría que llamar al de la clase padre
-            super(name, modelo);
+            super(name2, modelo);
             // console.log('Constructor deportivo llamado!');
         }
 
@@ -34,6 +35,6 @@
     // console.log(ferrari);
 
     // Getter y setter
-    ferrari.setName = 'Ferrari moderno'
+    ferrari.name2 = 'Ferrari moderno'
 
 })()

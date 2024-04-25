@@ -1,1 +1,1 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["Bases/interfaces/basicas.ts","Bases/interfaces/complejas.ts"],"names":[],"mappings":";ACAA,CAAC,GAAG,EAAE;IAOF,MAAM,MAAM,GAAW;QACnB,IAAI,EAAE,UAAU;QAChB,GAAG,EAAE,EAAE;KACV,CAAA;AACL,CAAC,CAAC,EAAE,CAAA"}
+{"version":3,"file":"main.js","sourceRoot":"","sources":["Decoradores/decoradores.ts"],"names":[],"mappings":""}
